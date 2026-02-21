@@ -1,6 +1,6 @@
 Privacy Policy
 
-Effective date: [Insert Date]
+Effective date: [21-02-2026]
 
 BUS LAI LIAO (“the App”) respects your privacy. This Privacy Policy explains how information is handled when you use the App.
 
