@@ -1,14 +1,14 @@
 Privacy Policy
 
-Effective date: [21-02-2026]
+Effective date: 21-02-2026
 
 BUS LAI LIAO (“the App”) respects your privacy. This Privacy Policy explains how information is handled when you use the App.
 
 1. Information We Do Not Collect
 
-BUS LAI LIAO does not collect, store, or sell personal data.
+BUS LAI LIAO does not directly collect, store, or sell personal data.
 
-We do not collect:
+We do not request or maintain:
 
 Name
 
@@ -26,68 +26,73 @@ Photos or media
 
 2. Information Processed by the App
 
-The App may process limited non-personal information necessary for functionality:
+The App processes limited information strictly required for functionality.
 
 a) Bus & Transport Data
 
-The App retrieves public transport information (such as bus arrival times and routes) from publicly available APIs. This data is not linked to your identity.
+The App retrieves public transport information (such as bus arrival times and routes) from publicly available APIs.
+This data is not linked to your identity.
 
 b) Device Permissions (If Enabled by User)
 
 Depending on features you use, the App may request:
 
 Notifications
-Used only to deliver bus arrival alerts you configure.
+Used only to deliver alerts or reminders you configure.
 
 Text-to-Speech / Audio
-Used to provide voice announcements for bus arrivals.
+Used to provide optional voice announcements within the App.
 
 No audio recordings are collected or transmitted.
 
-3. No User Tracking
+3. Advertising & Third-Party Services
 
-BUS LAI LIAO does not track users across apps or websites.
+The App may use third-party services for functionality or monetization, including advertising providers such as Google AdMob.
 
-We do not use:
+These services may automatically process certain information, which may include:
 
-Advertising trackers
+Device identifiers
 
-Cross-app tracking
+IP address
 
-Third-party profiling systems
+Approximate location
 
-4. Third-Party Services
+Ad interaction data
 
-The App may rely on external services strictly for functionality, such as:
+Diagnostics and performance data
 
-Transport data providers / APIs
+This information is handled solely by the respective third-party providers under their own privacy policies.
 
-Apple iOS system services
+BUS LAI LIAO does not directly access, control, or store this data.
 
-These providers operate under their own privacy policies.
+4. User Tracking
+
+BUS LAI LIAO does not perform independent cross-app or cross-website tracking.
+
+However, third-party services integrated into the App may process data for advertising, fraud prevention, analytics, or service improvement as governed by their own policies.
+
+Where required by platform rules, permission requests (such as Apple’s App Tracking Transparency prompt) will be presented to users.
 
 5. Data Storage
 
 BUS LAI LIAO does not maintain user accounts.
 
-Any preferences (such as favorite stops) are stored locally on your device and are never transmitted to our servers.
+Any preferences (such as saved stops or settings) are stored locally on your device and are not transmitted to our servers.
 
 6. Children’s Privacy
 
 The App does not knowingly collect personal information from children.
 
-Since no personal data is collected, the App is safe for general audiences.
-
 7. Security
 
-Because we do not collect personal data, there is no remote storage of sensitive information.
+Because we do not directly collect personal data, we do not maintain remote databases of sensitive user information.
 
 8. Changes to This Policy
 
-This Privacy Policy may be updated periodically. Updates will be reflected on this page.
+This Privacy Policy may be updated periodically. Updates will be reflected within the App or associated listing.
 
 9. Contact
 
 For questions regarding this Privacy Policy:
 
-Email: [yeoufuh@gmail.com]
+Email: yeoufuh@gmail.com
